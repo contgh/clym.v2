@@ -324,7 +324,7 @@ padding-bottom: 5%;
 
 #rezultate .about-item span {
   text-transform: uppercase;
-  webkit-text-stroke: 0.3px white;
+  /*webkit-text-stroke: 0.3px white;*/
 }
 
 #rezultate .about-item h2 {
