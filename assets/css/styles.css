@@ -308,7 +308,7 @@ padding-bottom: 5%;
 
 #rezultate .about-item:hover {
   background-color: var(--culfund);
-  box-shadow: 0 0 8px 3px var(--culp);
+  /*box-shadow: 0 0 8px 3px var(--culp);*/
 }
 
 #rezultate .about-item i {
